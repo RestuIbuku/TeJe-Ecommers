@@ -3509,7 +3509,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
 device_info_plus
 device_info_plus_platform_interface
 
@@ -3542,8 +3541,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-=======
->>>>>>> ebe3fdfafea0f36f67f3dae995b68c84533ff7ce
 double-conversion
 icu
 
@@ -5343,11 +5340,6 @@ path_provider_platform_interface
 path_provider_windows
 plugin_platform_interface
 shared_preferences
-<<<<<<< HEAD
-=======
-shared_preferences_android
-shared_preferences_foundation
->>>>>>> ebe3fdfafea0f36f67f3dae995b68c84533ff7ce
 shared_preferences_linux
 shared_preferences_platform_interface
 shared_preferences_web
@@ -6655,7 +6647,6 @@ prospectively choose to deem waived or otherwise exclude such Section(s) of
 the License, but only in their entirety and only with respect to the Combined
 Software.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
 getwidget
 
 The MIT License (MIT)
@@ -6683,8 +6674,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
-=======
->>>>>>> ebe3fdfafea0f36f67f3dae995b68c84533ff7ce
 glfw
 
 Copyright (C) 1997-2013 Sam Lantinga <slouken@libsdl.org>
@@ -27462,7 +27451,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
 intl
 
 Copyright 2013, the Dart project authors.
@@ -27494,8 +27482,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-=======
->>>>>>> ebe3fdfafea0f36f67f3dae995b68c84533ff7ce
 json
 
 Copyright (c) 2013-2022 Niels Lohmann
@@ -30720,7 +30706,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
 shared_preferences_android
 shared_preferences_foundation
 
@@ -30751,8 +30736,6 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-=======
->>>>>>> ebe3fdfafea0f36f67f3dae995b68c84533ff7ce
 skia
 
 Copyright (C) 2014 Google Inc. All rights reserved.
@@ -33784,7 +33767,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
 win32
 
 BSD 3-Clause License
@@ -33848,8 +33830,6 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
-=======
->>>>>>> ebe3fdfafea0f36f67f3dae995b68c84533ff7ce
 xml
 
 The MIT License
